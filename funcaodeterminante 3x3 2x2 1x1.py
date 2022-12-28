@@ -1,4 +1,5 @@
 def determinante(matriz):
+    """return the determinant of an array with dimensions 1x1,2x2,3x3"""
     if len(matriz) == 1:
         return matriz[0][0]
     elif len(matriz) == 2:
