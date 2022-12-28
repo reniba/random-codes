@@ -1,3 +1,6 @@
+#determine a determinant from an array by using Cramer method
+
+
 import funcaodeterminante as fd
 
 def PedirEquação(linha):
