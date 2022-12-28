@@ -1,6 +1,7 @@
-#determinante 4x4 por laplace
+#determine the determinant of a 4x4 array using laplace method
 import funcaodeterminante as fd
 import copy
+
 
 def cofator(mat,num):
     matrizaux = copy.deepcopy(mat)
