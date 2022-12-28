@@ -1,5 +1,5 @@
-import math
 def fatorador(num):
+    '''return a list with the prime fatoration of the number called'''
     lista = []
     a = num
     n = 1
